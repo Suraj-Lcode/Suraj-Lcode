@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Suraj G Rao</h1>
+<h3 align="center">A passionate ML & Data Science Engineer from Mangalore, India 🇮🇳</h3>
+<p align="center">
+  • <a href="mailto:surajgrao0203@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/suraj-g-rao/">LinkedIn</a> •
+  <a href="https://www.instagram.com/_suraj.rao_">Instagram</a> •
+  <a href="https://x.com/SurajGRao0203">X</a>
+</p>
 
-<!--
-**Suraj-Lcode/Suraj-Lcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.E student at **NIE Mysuru** (CGPA: 9.46/10)<br>
+💻 Skilled in **Python, ML, Deep Learning, and GenAI**<br>
+🚀 Passionate about **building intelligent real-world AI systems**<br>
+📍 Based in **Mangalore, Karnataka**<br>
+🏆 **1st @ NITK Security Bootcamp** · **Top 10 in state level @ SAP Hackathon 2025**
+
+---
+
+### 💼 Experience
+
+**Trainee Software Engineer Intern — LCode Technologies** *(Jan 2026 – Jun 2026, Mangaluru)*
+- Built a real-time **Fraud Risk Management System** for digital banking channels
+- Trained an **XGBoost + Isolation Forest** ensemble using behavioural, device, and network features
+- Deployed a **FastAPI** inference service scoring transactions → ALLOW / CHALLENGE / BLOCK in under 50ms
+
+**Research Intern — NITK Surathkal** *(Dec 2024 – Feb 2025, Mangaluru)*
+- Appointed as an intern under the **ISEA Phase-III** focusing on cryptanalysis techniques using neural networks.
+- Implemented the **Data Encryption Standard (DES)** algorithm to understand data encryption and decryption processes.
+- Trained a **Bidirectional LSTM** to predict plaintext patterns from DES-encrypted data without key access
+
+---
+
+### 🛠️ Languages & Tools
+
+<p><img src="https://skillicons.dev/icons?i=python" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=cpp" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=c" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=java" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=mysql" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=postgresql" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=mongodb" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=docker" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=git" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=github" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=linux" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=vscode" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=postman" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=spring" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=flask" width="45"/>&nbsp;<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="45"/>&nbsp;<img src="https://img.icons8.com/color/45/microsoft-excel-2019--v1.png" width="45"/>&nbsp;<img src="https://cdn.simpleicons.org/eclipseide/2C2255" width="45"/></p>
+
+---
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Suraj-G-Rao&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/suraj-g-rao">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/_suraj.rao_">
+  <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/SurajGRao0203">
+  <img src="https://cdn.simpleicons.org/x" width="40"/>
+</a>
+</p>
