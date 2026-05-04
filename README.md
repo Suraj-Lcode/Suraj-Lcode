@@ -1,21 +1,27 @@
 <h1 align="center">Hi 👋, I'm Suraj G Rao</h1>
-<h3 align="center">A passionate ML & Data Science Engineer from Mangalore, India 🇮🇳</h3>
+<h3 align="center">A passionate ML & Data Science Engineer from Bangalore, India 🇮🇳</h3>
 <p align="center">
-  • <a href="mailto:surajgrao0203@gmail.com">Email</a> •
+  • <a href="https://suraj-g-rao.vercel.app/">Portfolio</a> •
+  <a href="mailto:surajgrao0203@gmail.com">Email</a> •
   <a href="https://linkedin.com/in/suraj-g-rao/">LinkedIn</a> •
-  <a href="https://www.instagram.com/_suraj.rao_">Instagram</a> •
+  <a href="https://www.instagram.com/_suraj.rao_">Instagram</a>  •
   <a href="https://x.com/SurajGRao0203">X</a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4483BE&center=true&vCenter=true&width=700&lines=Software+Engineering+Intern+%40+Lcode+Technologies;Former+Research+Intern+%40+NITK+Surathkal;Generative+AI+%7C+Deep+Learning+%7C+MCP;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
 
+
 ### 🧠 About Me
 
-🎓 B.E student at **NIE Mysuru** (CGPA: 9.46/10)<br>
+🎓 B.E student at **NIE Mysuru** (CGPA: 9.42/10)<br>
 💻 Skilled in **Python, ML, Deep Learning, and GenAI**<br>
 🚀 Passionate about **building intelligent real-world AI systems**<br>
 📍 Based in **Mangalore, Karnataka**<br>
-🏆 **1st @ NITK Security Bootcamp** · **Top 10 in state level @ SAP Hackathon 2025**
+🏆 **1st @ NITK Security Bootcamp** 
 
 ---
 
@@ -39,26 +45,40 @@
 
 ---
 
-
-### 📊 GitHub Stats
-
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Suraj-Lcode&theme=tokyonight&hide_border=true" height="180"/>
+  <img width="45%" style="border: 2px solid #70a5fd; border-radius: 10px;" 
+  src="https://github-readme-stats.vercel.app/api?username=Suraj-G-Rao&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&border_color=70a5fd&cache_seconds=43200" />
+  &nbsp;
+  &nbsp;
+  <img width="48%" style="border: 2px solid #70a5fd; border-radius: 10px;" 
+  src="https://streak-stats.demolab.com?user=Suraj-G-Rao&theme=tokyonight&hide_border=false&border=70a5fd&cache_seconds=43200" />
 </p>
 
 ---
-### 🌐 Connect with Me
 
-<p align="left">
-<a href="https://linkedin.com/in/suraj-g-rao">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/_suraj.rao_">
-  <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://x.com/SurajGRao0203">
-  <img src="https://cdn.simpleicons.org/x" width="40"/>
-</a>
+<div align="center">
+
+### ✨ Visitors Count ✨
+
+<img src="https://komarev.com/ghpvc/?username=Suraj-G-Rao&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" width="250" />
+
+</div>
+
+---
+
+<h3 align="center">🌐 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/suraj-g-rao">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/_suraj.rao_">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/SurajGRao0203">
+    <img src="https://cdn.simpleicons.org/x" width="40"/>
+  </a>
 </p>
